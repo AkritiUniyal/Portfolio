@@ -173,7 +173,7 @@ export const projects = [
       "A personal portfolio website showcasing my projects, skills, certifications and achievements. Built with a modern tech stack including React.js, it features a responsive design and smooth animations.",
     image: port,
     tags: ["HTML", "CSS", "JavaScript", "React JS"],
-    github: "",
+    github: "https://github.com/AkritiUniyal/Portfolio",
     //webapp: "https://webversedigital.com/",
   },
 
